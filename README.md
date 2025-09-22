@@ -10,8 +10,8 @@ Aanvullen:
 - Zorg dat de SearchCommand wordt gebonden aan een functie in het onderliggende ViewModel (GroceryListItemsViewModel) en dat de zoekterm die in het zoekveld is ingetypt gebruikt wordt als parameter (SearchCommandParameter).  
 - Werk in het viewModel (GroceryListItemsViewModel) de zoekfunctie uit en zorg dat de beschikbare producten worden gefilterd op de zoekterm!  
 
-## UCx Registratie gebruiker 
-Of een ander idee zelf uitwerken. Dit betekent ook dat de documentatie hiervoor ontwikkeld moet worden.
-
+## UC09 Registering user
+- Wanneer een user geen account heeft, kan hij registreren.
+- Wanneer de registratie voltooid is, kan de user in de app terecht komen.
   
 
