@@ -1,4 +1,6 @@
 # GroceryApp sprint3 Studentversie  
+
+https://github.com/0xDivine/OOSDD_GroceryApp_Sprint3_Studenten/blob/main/.github/workflows/MAUI%20UT.yml
     
 ## UC07 Delen boodschappenlijst  
 Is compleet  
